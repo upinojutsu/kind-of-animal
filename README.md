@@ -5,7 +5,8 @@ This document is made by [gitfab](http://gitfab.org)
 #Target
 Elementary School (6-12)
 
-![1381708_382103345256947_1126590842_n.jpg](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/1381708_382103345256947_1126590842_n.jpg)
+
+![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
 ---
 #Scale
 1 classroom (~30)
