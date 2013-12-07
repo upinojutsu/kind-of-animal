@@ -1,4 +1,4 @@
-# classrecipe-template
+# kind-of-animal
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
@@ -6,7 +6,7 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://pakarfisika.files.wordpress.com/2008/06/uan_mts_2008_pakarfisika.jpg)
 ---
 #Scale
 1 classroom (~30)
